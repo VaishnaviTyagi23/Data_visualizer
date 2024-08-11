@@ -8,7 +8,7 @@ import seaborn as sns
 st.set_page_config(page_title='Data Visualizer', layout='wide', page_icon='📊')
 
 # Title and description
-st.title('📊 Data Visualizer')
+st.title('📊 VizPro')
 st.write(
     "Upload your CSV file or select one from the predefined folder to visualize the data using various plot types. You can also filter and analyze the data with correlation heatmaps and moving averages.")
 
